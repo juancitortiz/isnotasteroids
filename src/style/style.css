@@ -1,0 +1,9 @@
+* {
+  align-items: center;
+  text-align: center;
+  background-color: black;
+}
+
+.canvas-container{
+  padding-top: 3rem;
+}
