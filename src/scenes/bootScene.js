@@ -6,7 +6,7 @@ class BootScene extends Phaser.Scene {
 
   preload() {
     
-    this.load.path = './../public/assets/';
+    this.load.path = './assets/';
 
     this.load.image('phaserLogo', 'phaser3-logo.png');
     
